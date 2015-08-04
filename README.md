@@ -1,4 +1,4 @@
-# The-Great-JavaScript-List
+# The Great JavaScript List
 
 DateTime Picker:
 https://github.com/CuriousSolutions/DateTimePicker
