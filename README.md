@@ -6,5 +6,6 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 DateTime Picker:
 https://github.com/CuriousSolutions/DateTimePicker
 
-WebGLStudio.js:
-https://github.com/jagenjo/webglstudio.js
+cut-html-string:
+https://code.google.com/p/cut-html-string
+(Cut the html string by keeping the html tags as it is.)
