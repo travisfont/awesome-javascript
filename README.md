@@ -3,9 +3,15 @@
 
 A curated list of awesome JavaScript libraries and resources. Inspired by [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) & [awesome-go](https://github.com/avelino/awesome-go).
 
+sweetalert:
+https://github.com/t4t5/sweetalert/
+
 DateTime Picker:
 https://github.com/CuriousSolutions/DateTimePicker
 
 cut-html-string:
 https://code.google.com/p/cut-html-string
 (Cut the html string by keeping the html tags as it is.)
+
+onScreen:
+https://github.com/silvestreh/onScreen
