@@ -3,6 +3,9 @@
 
 A curated list of awesome JavaScript libraries and resources. Inspired by [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) & [awesome-go](https://github.com/avelino/awesome-go).
 
+Bootstrap Tagsinput:
+https://github.com/timschlechter/bootstrap-tagsinput
+
 sweetalert:
 https://github.com/t4t5/sweetalert/
 
