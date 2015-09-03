@@ -3,18 +3,21 @@
 
 A curated list of awesome JavaScript libraries and resources. Inspired by [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) & [awesome-go](https://github.com/avelino/awesome-go).
 
-Bootstrap Tagsinput:
-https://github.com/timschlechter/bootstrap-tagsinput
+- sweetalert:
+<br/>https://github.com/t4t5/sweetalert/
 
-sweetalert:
-https://github.com/t4t5/sweetalert/
+- Bootstrap Multiselect:
+<br/>https://github.com/davidstutz/bootstrap-multiselect
 
-DateTime Picker:
-https://github.com/CuriousSolutions/DateTimePicker
+- Bootstrap Tagsinput:
+<br/>https://github.com/timschlechter/bootstrap-tagsinput
 
-cut-html-string:
-https://code.google.com/p/cut-html-string
-(Cut the html string by keeping the html tags as it is.)
+- DateTime Picker:
+<br/>https://github.com/CuriousSolutions/DateTimePicker
 
-onScreen:
-https://github.com/silvestreh/onScreen
+- cut-html-string:
+<br/>https://code.google.com/p/cut-html-string
+<br/>(Cut the html string by keeping the html tags as it is.)
+
+- onScreen:
+<br/>https://github.com/silvestreh/onScreen
