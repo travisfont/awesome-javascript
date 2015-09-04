@@ -3,7 +3,7 @@
 
 A curated list of awesome JavaScript libraries and resources. Inspired by [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) & [awesome-go](https://github.com/avelino/awesome-go).
 
-- sweetalert:
+- sweetalert - Alert/notication modals:
 <br/>https://github.com/t4t5/sweetalert/
 
 - Bootstrap Multiselect:
@@ -14,6 +14,9 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 
 - DateTime Picker:
 <br/>https://github.com/CuriousSolutions/DateTimePicker
+
+- Cropit - Image zoom and cropping:
+<br/>https://github.com/scottcheng/cropit
 
 - cut-html-string:
 <br/>https://code.google.com/p/cut-html-string
