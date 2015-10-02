@@ -23,7 +23,7 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 <br/>(Cut the html string by keeping the html tags as it is.)
 
 - clipboard.js - Modern copy to clipboar (no Flash):
-<br/>https://github.com/CuriousSolutions/DateTimePicker
+<br/>https://github.com/zenorocha/clipboard.js
 
 - onScreen:
 <br/>https://github.com/silvestreh/onScreen
