@@ -33,3 +33,6 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 
 - Chocolat - A responsive jQuery lightbox plugin:
 <br/>https://github.com/nicolas-t/Chocolat
+
+- NodeList.js - DOM implementation library:
+<br/>https://github.com/eorroe/NodeList.js
