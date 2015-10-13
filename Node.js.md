@@ -1,7 +1,15 @@
-Sharp -
-The fastest Node.js module for resizing JPEG, PNG, WebP and TIFF imagessharp:
+- Sharp - Resizing JPEG, PNG, WebP and TIFF imagessharp:
 https://github.com/lovell/sharp
 
-relax -
-New generation CMS on top of React and Node.js
-https://github.com/relax/relax
+**Databases**
+
+- bookshelf.js - ORM built on the Knex SQL query builder:
+<br/>https://github.com/tgriesser/bookshelf
+
+- Sequelize -  promise-based ORM for Postgres, MySQL, MariaDB, SQLite & MSSQL:
+<br/>https://github.com/sequelize/sequelize
+
+**CMS**
+
+- relax:
+<br/>https://github.com/relax/relax
