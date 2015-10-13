@@ -6,18 +6,6 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - sweetalert - Alert/notication modals:
 <br/>https://github.com/t4t5/sweetalert/
 
-- Bootstrap Multiselect:
-<br/>https://github.com/davidstutz/bootstrap-multiselect
-
-- Bootstrap Tagsinput:
-<br/>https://github.com/timschlechter/bootstrap-tagsinput
-
-- DateTime Picker:
-<br/>https://github.com/CuriousSolutions/DateTimePicker
-
-- Cropit - Image zoom and cropping:
-<br/>https://github.com/scottcheng/cropit
-
 - cut-html-string:
 <br/>https://code.google.com/p/cut-html-string
 <br/>(Cut the html string by keeping the html tags as it is.)
@@ -25,14 +13,13 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - clipboard.js - Modern copy to clipboar (no Flash):
 <br/>https://github.com/zenorocha/clipboard.js
 
-- onScreen:
-<br/>https://github.com/silvestreh/onScreen
-
-- jCalculator - Plugin for calculator inputs:
-<br/>https://github.com/balajmarius/jCalculator
-
-- Chocolat - A responsive jQuery lightbox plugin:
-<br/>https://github.com/nicolas-t/Chocolat
-
 - NodeList.js - DOM implementation library:
 <br/>https://github.com/eorroe/NodeList.js
+
+- bLazy.JS - Image lazy loading:
+<br/>https://github.com/dinbror/blazy
+
+**Databases**
+
+- Lovefield - Relational database written in pure JavaScript:
+<br/>https://github.com/google/lovefield
