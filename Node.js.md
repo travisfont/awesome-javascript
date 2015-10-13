@@ -1,3 +1,5 @@
+**Images / Graphics**
+
 - Sharp - Resizing JPEG, PNG, WebP and TIFF imagessharp:
 https://github.com/lovell/sharp
 
