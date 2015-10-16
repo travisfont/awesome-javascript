@@ -19,8 +19,11 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - bLazy.JS - Image lazy loading:
 <br/>https://github.com/dinbror/blazy
 
-- pace.js - Progress Bar
+- pace.js - Progress Bar:
 <br/>https://github.com/HubSpot/PACE
+
+- smartcrop.js - Content aware image cropping:
+<br/>https://github.com/jwagner/smartcrop.js
 
 **Databases**
 
