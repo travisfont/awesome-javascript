@@ -25,6 +25,9 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - smartcrop.js - Content aware image cropping:
 <br/>https://github.com/jwagner/smartcrop.js
 
+- Quill - A cross browser rich text editor with an API:
+<br/>https://github.com/quilljs/quill
+
 **Databases**
 
 - Lovefield - Relational database written in pure JavaScript:
