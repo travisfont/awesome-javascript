@@ -28,6 +28,9 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - Quill - A cross browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
 
+- zxcvbn - realistic password strength estimation:
+<br/>https://github.com/dropbox/zxcvbn
+
 **Databases**
 
 - Lovefield - Relational database written in pure JavaScript:
