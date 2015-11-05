@@ -16,20 +16,25 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - NodeList.js - DOM implementation library:
 <br/>https://github.com/eorroe/NodeList.js
 
-- bLazy.JS - Image lazy loading:
-<br/>https://github.com/dinbror/blazy
-
 - pace.js - Progress Bar:
 <br/>https://github.com/HubSpot/PACE
-
-- smartcrop.js - Content aware image cropping:
-<br/>https://github.com/jwagner/smartcrop.js
 
 - Quill - A cross browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
 
+-Sortable - A minimalist  library for reorderable drag-and-drop lists:
+<br/>https://github.com/RubaXa/Sortable
+
 - zxcvbn - realistic password strength estimation:
 <br/>https://github.com/dropbox/zxcvbn
+
+**Images**
+
+- bLazy.JS - Image lazy loading:
+<br/>https://github.com/dinbror/blazy
+
+- smartcrop.js - Content aware image cropping:
+<br/>https://github.com/jwagner/smartcrop.js
 
 **Databases**
 
