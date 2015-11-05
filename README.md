@@ -22,7 +22,7 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 - Quill - A cross browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
 
--Sortable - A minimalist  library for reorderable drag-and-drop lists:
+- Sortable - A minimalist  library for reorderable drag-and-drop lists:
 <br/>https://github.com/RubaXa/Sortable
 
 - zxcvbn - realistic password strength estimation:
