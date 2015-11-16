@@ -24,3 +24,6 @@
 
 - jquery-smooth-scroll - Automatically make same-page links scroll smoothly:
 <br/>https://github.com/kswedberg/jquery-smooth-scroll
+
+- jQuery GridManager - A way of building rows and grids with built in editable regions:
+<br/>https://github.com/neokoenig/jQuery-gridmanager
