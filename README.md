@@ -4,7 +4,12 @@
 A curated list of awesome JavaScript libraries and resources. Inspired by [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) & [awesome-go](https://github.com/avelino/awesome-go).
 
 - sweetalert - Alert/notication modals:
-<br/>https://github.com/t4t5/sweetalert/
+<br/>https://github.com/t4t5/sweetalert
+
+- notie.js - A clean and simple notification plugin (alert/growl style):
+<br/>https://jaredreich.com/projects/notie.js
+
+<br/>https://github.com/jaredreich/notie.js
 
 - cut-html-string:
 <br/>https://code.google.com/p/cut-html-string
