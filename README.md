@@ -43,3 +43,8 @@ A curated list of awesome JavaScript libraries and resources. Inspired by [aweso
 
 - Lovefield - Relational database written in pure JavaScript:
 <br/>https://github.com/google/lovefield
+
+**Databases**
+
+- Videox5js -  web video player for HTML5 (with customizable theme):
+<br/>https://github.com/brendonco/videox5js
