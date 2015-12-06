@@ -27,3 +27,32 @@
 
 - jQuery GridManager - A way of building rows and grids with built in editable regions:
 <br/>https://github.com/neokoenig/jQuery-gridmanager
+
+**Validation**
+
+- jQuery.bank - A library for building bank account forms, formatting and validating inputs.:
+<br/>https://github.com/gumroad/jquery.bank
+
+- jQuery Validation Plugin -Drop-in validation for your existing forms:
+<br/>https://github.com/jzaefferer/jquery-validation
+
+- jQuery.validationEngine - Plugin aimed at the validation of form fields in the browser:
+<br/>https://github.com/posabsolute/jQuery-Validation-Engine
+
+- jQuery Form Validate - Plugin that helps validate your HTML forms:
+<br/>https://github.com/vmichnowicz/jquery.formvalidate
+
+- quickValidation.js - Quick form validation:
+<br/>https://github.com/nikorablin/quickValidation.js
+
+- nextVal - Form validation plugin for jQuery:
+<br/>https://github.com/jukebox42/nextVal
+
+- validator - cross-browser * future-proof HTML5 input types validation:
+<br/>https://github.com/yairEO/validator
+
+- jQuery.validity - Client-side customizable validation:
+<br/>https://github.com/whatgoodisaroad/validity
+
+- jQuery Form Validate - An advance HTML 5 form validator:
+<br/>https://github.com/vmichnowicz/jquery.formvalidate
