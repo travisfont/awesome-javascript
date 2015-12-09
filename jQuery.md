@@ -28,6 +28,11 @@
 - jQuery GridManager - A way of building rows and grids with built in editable regions:
 <br/>https://github.com/neokoenig/jQuery-gridmanager
 
+**Time / Date**
+
+- Timeout-Dialog.js - Displays a timeout Dialog after a certain period of time:
+<br/>https://github.com/rigoneri/timeout-dialog.js
+
 **Validation**
 
 - jQuery.bank - A library for building bank account forms, formatting and validating inputs.:
