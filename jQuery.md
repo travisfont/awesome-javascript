@@ -7,9 +7,6 @@
 - jsGrid - Lightweight Grid
 <br/>https://github.com/tabalinas/jsgrid
 
-- DateTime Picker:
-<br/>https://github.com/CuriousSolutions/DateTimePicker
-
 - onScreen:
 <br/>https://github.com/silvestreh/onScreen
 
@@ -29,6 +26,9 @@
 <br/>https://github.com/neokoenig/jQuery-gridmanager
 
 **Time / Date**
+
+- DateTime Picker:
+<br/>https://github.com/CuriousSolutions/DateTimePicker
 
 - Timeout-Dialog.js - Displays a timeout Dialog after a certain period of time:
 <br/>https://github.com/rigoneri/timeout-dialog.js
