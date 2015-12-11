@@ -48,6 +48,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Videox5js - Web video player for HTML5 (with customizable theme):
 <br/>https://github.com/brendonco/videox5js
 
-** UI (Layout / Grids / Tables) **
+**UI (Layout / Grids / Tables)**
 - Split.js - A lightweight, unopinionated utility for creating adjustable split views or panes.
 <br/>https://github.com/nathancahill/Split.js
