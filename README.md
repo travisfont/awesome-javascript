@@ -1,6 +1,7 @@
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/tfont/awesome-javascript) 
 
-A curated list of awesome JavaScript libraries and resources. Inspired by [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon) & [awesome-go](https://github.com/avelino/awesome-go).
+Yet another a curated list of awesome JavaScript libraries and resources.
+<br/>Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon). And without forgetting the complete [awesome](https://github.com/sindresorhus/awesome) list!
 
 - [d3.js](d3.js.md)
 - [JavaScript (native)](JavaScript.md)
