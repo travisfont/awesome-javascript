@@ -3,6 +3,7 @@
 Yet another a curated list of awesome JavaScript libraries and resources.
 <br/>Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon). And without forgetting the complete [awesome](https://github.com/sindresorhus/awesome) list!
 
+- [AngularJS](AngularJS.md)
 - [d3.js](d3.js.md)
 - [JavaScript (native)](JavaScript.md)
 - [jQuery](jQuery.md)
