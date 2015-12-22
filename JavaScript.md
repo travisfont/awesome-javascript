@@ -18,6 +18,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - NodeList.js - DOM implementation library:
 <br/>https://github.com/eorroe/NodeList.js
 
+- gmaps.js - The easiest way to use Google Map:
+<br/>https://github.com/hpneo/gmaps
+
 - pace.js - Progress Bar:
 <br/>https://github.com/HubSpot/PACE
 
