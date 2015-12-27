@@ -52,5 +52,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 <br/>https://github.com/brendonco/videox5js
 
 **UI (Layout / Grids / Tables)**
-- Split.js - A lightweight, unopinionated utility for creating adjustable split views or panes.
+- Split.js - A lightweight, unopinionated utility for creating adjustable split views or panes:
 <br/>https://github.com/nathancahill/Split.js
+
+**Sound**
+- timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
+<br/>https://github.com/mohayonao/timbre.js
