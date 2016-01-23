@@ -24,6 +24,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - gmaps.js - The easiest way to use Google Map:
 <br/>https://github.com/hpneo/gmaps
 
+- Feature.js - A fast, simple and lightweight browser feature detection library in 1kb:
+<br/>https://github.com/viljamis/feature.js
+
 - pace.js - Progress Bar:
 <br/>https://github.com/HubSpot/PACE
 
