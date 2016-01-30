@@ -47,6 +47,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - smartcrop.js - Content aware image cropping:
 <br/>https://github.com/jwagner/smartcrop.js
 
+- Viewer.js - An mage viewer
+<br/>https://github.com/fengyuanchen/viewerjs
+
 **Databases**
 
 - Lovefield - Relational database written in pure JavaScript:
