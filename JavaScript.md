@@ -41,6 +41,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 **Images**
 
+- lazysizes - Image lazy loading:
+<br/>https://github.com/aFarkas/lazysizes
+
 - bLazy.JS - Image lazy loading:
 <br/>https://github.com/dinbror/blazy
 
