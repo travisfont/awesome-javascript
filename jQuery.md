@@ -61,3 +61,8 @@
 
 - jQuery Form Validate - An advance HTML 5 form validator:
 <br/>https://github.com/vmichnowicz/jquery.formvalidate
+
+**Notifications**
+
+- OhSnap!.js - A simple notification library designed to be used in mobile apps:
+<br/>https://github.com/justindomingue/ohSnap
