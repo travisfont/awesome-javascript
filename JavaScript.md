@@ -53,6 +53,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Viewer.js - An mage viewer
 <br/>https://github.com/fengyuanchen/viewerjs
 
+- PhotoSwipe - Image gallery for mobile and desktop:
+<br/>https://github.com/dimsemenov/photoswipe
+
 **Databases**
 
 - Lovefield - Relational database written in pure JavaScript:
