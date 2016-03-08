@@ -77,6 +77,10 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Burger - The minimal hamburger menu with fullscreen navigation:
 <br/>https://github.com/mblode/burger
 
+**Compression / Minification**
+- HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
+<br/>https://github.com/kangax/html-minifier
+
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
 <br/>https://github.com/mohayonao/timbre.js
