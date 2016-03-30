@@ -87,3 +87,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
 <br/>https://github.com/mohayonao/timbre.js
+
+- MidiWriterJS - Generating expressive multi-track MIDI files in browser and Node:
+<br/>https://github.com/grimmdude/MidiWriterJS
