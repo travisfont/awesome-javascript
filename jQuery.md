@@ -64,7 +64,7 @@
 - OhSnap!.js - A simple notification library designed to be used in mobile apps:
 <br/>https://github.com/justindomingue/ohSnap
 
-** Layout / Grid / Sorting **
+**Layout / Grid / Sorting**
 
 - jsGrid - Lightweight Grid:
 <br/>https://github.com/tabalinas/jsgrid
