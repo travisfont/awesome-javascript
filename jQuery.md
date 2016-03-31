@@ -4,9 +4,6 @@
 - Bootstrap Tagsinput:
 <br/>https://github.com/timschlechter/bootstrap-tagsinput
 
-- jsGrid - Lightweight Grid
-<br/>https://github.com/tabalinas/jsgrid
-
 - onScreen:
 <br/>https://github.com/silvestreh/onScreen
 
@@ -66,3 +63,11 @@
 
 - OhSnap!.js - A simple notification library designed to be used in mobile apps:
 <br/>https://github.com/justindomingue/ohSnap
+
+** Layout / Grid / Sorting **
+
+- jsGrid - Lightweight Grid:
+<br/>https://github.com/tabalinas/jsgrid
+
+- Isotope - Filter & sort objects (list items, divs, etc):
+<br/>https://github.com/metafizzy/isotope
