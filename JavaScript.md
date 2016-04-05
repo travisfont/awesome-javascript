@@ -33,11 +33,14 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Quill - A cross browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
 
-- Sortable - A minimalist  library for reorderable drag-and-drop lists:
+- Sortable - A minimalist library for reorderable drag-and-drop lists:
 <br/>https://github.com/RubaXa/Sortable
 
 - zxcvbn - realistic password strength estimation:
 <br/>https://github.com/dropbox/zxcvbn
+
+- DOM99 - imple HTML manipulation for the modern web:
+<br/>https://github.com/GrosSacASac/DOM99
 
 **Images**
 
@@ -49,6 +52,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - smartcrop.js - Content aware image cropping:
 <br/>https://github.com/jwagner/smartcrop.js
+
+-hu.js - JavaScript library for SVG:
+<br/>https://github.com/Canop/hu.js
 
 - Viewer.js - An mage viewer
 <br/>https://github.com/fengyuanchen/viewerjs
