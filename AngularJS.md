@@ -20,3 +20,11 @@
 
 - angular-notification-icons - Add notification popups to any element:
 <br/>https://github.com/jacob-meacham/angular-notification-icons
+
+**Sliders**
+
+- ui-slider directive - jQuery UI Slider for AngularJS:
+<br/>https://github.com/angular-ui/ui-slider
+
+- AngularJS slider - Slider directive implementation for AngularJS, without any dependencies:
+<br/>https://github.com/angular-slider/angularjs-slider
