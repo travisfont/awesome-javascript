@@ -96,3 +96,8 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - MidiWriterJS - Generating expressive multi-track MIDI files in browser and Node:
 <br/>https://github.com/grimmdude/MidiWriterJS
+
+**Carousel / Content Slider**
+
+- Swipe - The most accurate touch slider:
+<br/>https://github.com/thebird/Swipe
