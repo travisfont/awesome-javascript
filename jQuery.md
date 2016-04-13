@@ -30,6 +30,9 @@
 - Timeout-Dialog.js - Displays a timeout Dialog after a certain period of time:
 <br/>https://github.com/rigoneri/timeout-dialog.js
 
+- CLNDR.js -  jQuery calendar plugin:
+<br/>https://github.com/kylestetz/CLNDR
+
 **Validation**
 
 - jQuery.bank - A library for building bank account forms, formatting and validating inputs.:
