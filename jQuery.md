@@ -74,3 +74,17 @@
 
 - Isotope - Filter & sort objects (list items, divs, etc):
 <br/>https://github.com/metafizzy/isotope
+
+**Carousel / Content Slider**
+
+- slick - The last carousel you'll ever need:
+<br/>https://github.com/kenwheeler/slick (kenwheeler.github.io/slick)
+
+- bxSlider - Responsive jQuery content slider:
+<br/>https://github.com/stevenwanderski/bxslider-4
+
+- Touchslider - Touch control slider:
+<br/>https://github.com/lusever/TouchSlider (touchslider.com)
+
+- SlidesJS - responsive slideshow plug-in for jQuery:
+<br/>https://github.com/nathansearles/Slides/tree/SlidesJS-3 (slidesjs.com)
