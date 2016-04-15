@@ -11,3 +11,4 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-phal
 - [JavaScript (native)](JavaScript.md)
 - [jQuery](jQuery.md)
 - [Node.js](Node.js.md)
+- [Three.js (JavaScript 3D)](Three.js (JavaScript 3D).md)
