@@ -42,6 +42,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - DOM99 - Simple HTML manipulation for the modern web:
 <br/>https://github.com/GrosSacASac/DOM99
 
+- nanobar - Very lightweight progress bar:
+<br/>https://github.com/jacoborus/nanobar
+
 **Images**
 
 - lazysizes - Image lazy loading:
@@ -52,6 +55,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - smartcrop.js - Content aware image cropping:
 <br/>https://github.com/jwagner/smartcrop.js
+
+- Cropper.js - A simple image cropping:
+<br/>https://github.com/fengyuanchen/cropperjs
 
 - hu.js - JavaScript library for SVG:
 <br/>https://github.com/Canop/hu.js
