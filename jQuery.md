@@ -10,17 +10,25 @@
 - jCalculator - Plugin for calculator inputs:
 <br/>https://github.com/balajmarius/jCalculator
 
+- jquery-smooth-scroll - Automatically make same-page links scroll smoothly:
+<br/>https://github.com/kswedberg/jquery-smooth-scroll
+
+- jQuery GridManager - A way of building rows and grids with built in editable regions:
+<br/>https://github.com/neokoenig/jQuery-gridmanager
+
+**Images**
+
+- Responsify.js - Truly responsive images - keeping the focused objects/area in view:
+<br/>https://github.com/wentin/ResponsifyJS
+
 - Chocolat - A responsive jQuery lightbox plugin:
 <br/>https://github.com/nicolas-t/Chocolat
 
 - Cropit - Image zoom and cropping:
 <br/>https://github.com/scottcheng/cropit
 
-- jquery-smooth-scroll - Automatically make same-page links scroll smoothly:
-<br/>https://github.com/kswedberg/jquery-smooth-scroll
-
-- jQuery GridManager - A way of building rows and grids with built in editable regions:
-<br/>https://github.com/neokoenig/jQuery-gridmanager
+- Cropper - A simple jQuery image cropping plugin:
+<br/>https://github.com/fengyuanchen/cropper
 
 **Time / Date**
 
