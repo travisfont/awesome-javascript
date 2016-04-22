@@ -21,14 +21,11 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - NodeList.js - DOM implementation library:
 <br/>https://github.com/eorroe/NodeList.js
 
+- DOM99 - Simple HTML manipulation for the modern web:
+<br/>https://github.com/GrosSacASac/DOM99
+
 - gmaps.js - The easiest way to use Google Map:
 <br/>https://github.com/hpneo/gmaps
-
-- Feature.js - A fast, simple and lightweight browser feature detection library in 1kb:
-<br/>https://github.com/viljamis/feature.js
-
-- pace.js - Progress Bar:
-<br/>https://github.com/HubSpot/PACE
 
 - Quill - Coss browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
@@ -39,11 +36,19 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - zxcvbn - Realistic password strength estimation:
 <br/>https://github.com/dropbox/zxcvbn
 
-- DOM99 - Simple HTML manipulation for the modern web:
-<br/>https://github.com/GrosSacASac/DOM99
+- pace.js - Progress Bar:
+<br/>https://github.com/HubSpot/PACE
 
 - nanobar - Very lightweight progress bar:
 <br/>https://github.com/jacoborus/nanobar
+
+**Validation / Detection**
+
+- validate.js - Declarative validation:
+<br/>https://github.com/ansman/validate.js
+
+- Feature.js - A fast, simple and lightweight browser feature detection library in 1kb:
+<br/>https://github.com/viljamis/feature.js
 
 **Images**
 
@@ -76,11 +81,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Lovefield - Relational database written in pure JavaScript:
 <br/>https://github.com/google/lovefield
 
-**Databases**
-
-- Videox5js - Web video player for HTML5 (with customizable theme):
-<br/>https://github.com/brendonco/videox5js
-
 **UI (Layout / Grids / Tables)**
 
 - Highlight.js - a syntax highlighter (supports most common styles and languages):
@@ -96,6 +96,11 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
 <br/>https://github.com/kangax/html-minifier
 
+**Carousel / Content Slider**
+
+- Swipe - The most accurate touch slider:
+<br/>https://github.com/thebird/Swipe
+
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
 <br/>https://github.com/mohayonao/timbre.js
@@ -103,7 +108,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - MidiWriterJS - Generating expressive multi-track MIDI files in browser and Node:
 <br/>https://github.com/grimmdude/MidiWriterJS
 
-**Carousel / Content Slider**
+**Video**
 
-- Swipe - The most accurate touch slider:
-<br/>https://github.com/thebird/Swipe
+- Videox5js - Web video player for HTML5 (with customizable theme):
+<br/>https://github.com/brendonco/videox5js
