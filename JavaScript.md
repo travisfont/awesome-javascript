@@ -2,6 +2,9 @@
 
 As is, native JavaScript! Libaries that don't require any framework dependencies.
 
+- strman - String manipulation library:
+<br/>https://github.com/dleitee/strman
+
 - sweetalert - Alert/notication modals:
 <br/>https://github.com/t4t5/sweetalert
 
