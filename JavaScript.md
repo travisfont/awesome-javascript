@@ -76,6 +76,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - PhotoSwipe - Image gallery for mobile and desktop:
 <br/>https://github.com/dimsemenov/photoswipe
 
+- grafi.js - JavaScript Image Processing Library:
+<br/>https://github.com/grafijs/grafi (http://grafijs.org/)
+
 - Morphr - Tiny and lightweight javascript class for morphing (animating) objects:
 <br/>https://github.com/goessner/morphr
 
