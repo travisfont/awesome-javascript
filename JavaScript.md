@@ -98,9 +98,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Burger - The minimal hamburger menu with fullscreen navigation:
 <br/>https://github.com/mblode/burger
 
-**Compression / Minification**
+**Compression (Minification) / Encryption **
 - HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
 <br/>https://github.com/kangax/html-minifier
+
+- AES-JS - AES block cipher algorithm and all common modes of operation (CBC, CFB, CTR, ECB and OFB):
+<br/>https://github.com/ricmoo/aes-js
 
 **Carousel / Content Slider**
 
