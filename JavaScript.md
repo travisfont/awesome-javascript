@@ -105,6 +105,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - AES-JS - AES block cipher algorithm and all common modes of operation (CBC, CFB, CTR, ECB and OFB):
 <br/>https://github.com/ricmoo/aes-js
 
+- Majorca - Simple JavaScript string encryption:
+<br/>https://github.com/jackdalton/majorca
+
 **Time / DAte**
 - millisecond - Convert time strings to milliseconds:
 <br/>https://github.com/unshiftio/millisecond
