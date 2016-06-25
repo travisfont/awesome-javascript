@@ -108,7 +108,10 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Majorca - Simple JavaScript string encryption:
 <br/>https://github.com/jackdalton/majorca
 
-**Time / DAte**
+**Time / Date**
+- flatpickr - Lightweight & powerful datetimepickers:
+<br/>https://github.com/chmln/flatpickr
+
 - millisecond - Convert time strings to milliseconds:
 <br/>https://github.com/unshiftio/millisecond
 
