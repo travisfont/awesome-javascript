@@ -115,6 +115,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - millisecond - Convert time strings to milliseconds:
 <br/>https://github.com/unshiftio/millisecond
 
+- Timer.js - Simple and lightweight library without any dependencies to create and manage timers:
+<br/>https://github.com/husa/timer.js
+
 **Carousel / Content Slider**
 
 - Swipe - The most accurate touch slider:
