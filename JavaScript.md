@@ -45,6 +45,11 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - nanobar - Very lightweight progress bar:
 <br/>https://github.com/jacoborus/nanobar
 
+**Formatting**
+
+- cleave.js - Formatting input text content when you are typing:
+<br/>https://github.com/nosir/cleave.js
+
 **Validation / Detection**
 
 - validate.js - Declarative validation:
