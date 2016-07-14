@@ -113,6 +113,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Majorca - Simple JavaScript string encryption:
 <br/>https://github.com/jackdalton/majorca
 
+- js-deflate - Deflate & Inflate (RFC 1951) for JavaScript:
+<br/>https://github.com/dankogai/js-deflate
+
 **Time / Date**
 - flatpickr - Lightweight & powerful datetimepickers:
 <br/>https://github.com/chmln/flatpickr
