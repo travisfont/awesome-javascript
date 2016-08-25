@@ -4,6 +4,9 @@
 - Bootstrap Tagsinput:
 <br/>https://github.com/timschlechter/bootstrap-tagsinput
 
+- chosen - Library for making long, unwieldy select boxes more friendly:
+<br/>https://github.com/harvesthq/chosen
+
 - onScreen:
 <br/>https://github.com/silvestreh/onScreen
 
