@@ -30,6 +30,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - gmaps.js - The easiest way to use Google Map:
 <br/>https://github.com/hpneo/gmaps
 
+- $.geocomplete() - Geocoding and Places Autocomplete Plugin:
+<br/>https://github.com/ubilabs/geocomplete
+
 - Quill - Coss browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
 
