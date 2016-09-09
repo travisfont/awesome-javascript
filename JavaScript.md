@@ -2,6 +2,9 @@
 
 As is, native JavaScript! Libaries that don't require any framework dependencies.
 
+- cookies.js - Interactive and easy cookies from your browser:
+<br/>https://github.com/franciscop/cookies.js
+
 - strman - String manipulation library:
 <br/>https://github.com/dleitee/strman
 
