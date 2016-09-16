@@ -45,11 +45,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - zxcvbn - Realistic password strength estimation:
 <br/>https://github.com/dropbox/zxcvbn
 
-- pace.js - Progress Bar:
-<br/>https://github.com/HubSpot/PACE
-
-- nanobar - Very lightweight progress bar:
-<br/>https://github.com/jacoborus/nanobar
 
 **Formatting**
 
@@ -63,6 +58,25 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - Feature.js - A fast, simple and lightweight browser feature detection library in 1kb:
 <br/>https://github.com/viljamis/feature.js
+
+**Compression (Minification) / Encryption**
+- HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
+<br/>https://github.com/kangax/html-minifier
+
+- AES-JS - AES block cipher algorithm and all common modes of operation (CBC, CFB, CTR, ECB and OFB):
+<br/>https://github.com/ricmoo/aes-js
+
+- Majorca - Simple JavaScript string encryption:
+<br/>https://github.com/jackdalton/majorca
+
+- js-deflate - Deflate & Inflate (RFC 1951) for JavaScript:
+<br/>https://github.com/dankogai/js-deflate
+
+**Databases**
+
+- Lovefield - Relational database written in pure JavaScript:
+<br/>https://github.com/google/lovefield
+
 
 **Images**
 
@@ -93,11 +107,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Morphr - Tiny and lightweight javascript class for morphing (animating) objects:
 <br/>https://github.com/goessner/morphr
 
-**Databases**
-
-- Lovefield - Relational database written in pure JavaScript:
-<br/>https://github.com/google/lovefield
-
 **UI (Layout / Grids / Tables)**
 
 - Highlight.js - a syntax highlighter (supports most common styles and languages):
@@ -109,18 +118,21 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Burger - The minimal hamburger menu with fullscreen navigation:
 <br/>https://github.com/mblode/burger
 
-**Compression (Minification) / Encryption**
-- HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
-<br/>https://github.com/kangax/html-minifier
+**Graphs**
 
-- AES-JS - AES block cipher algorithm and all common modes of operation (CBC, CFB, CTR, ECB and OFB):
-<br/>https://github.com/ricmoo/aes-js
+- ProgressBar.js - Responsive and slick progress bars:
+<br/>https://github.com/kimmobrunfeldt/progressbar.js
 
-- Majorca - Simple JavaScript string encryption:
-<br/>https://github.com/jackdalton/majorca
+- pace.js - Progress Bar:
+<br/>https://github.com/HubSpot/PACE
 
-- js-deflate - Deflate & Inflate (RFC 1951) for JavaScript:
-<br/>https://github.com/dankogai/js-deflate
+- nanobar - Very lightweight progress bar:
+<br/>https://github.com/jacoborus/nanobar
+
+**Carousel / Content Slider**
+
+- Swipe - The most accurate touch slider:
+<br/>https://github.com/thebird/Swipe
 
 **Time / Date**
 - flatpickr - Lightweight & powerful datetimepickers:
@@ -134,11 +146,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - timeago.js - Format datetime with *** time ago statement:
 <br/>https://github.com/hustcc/timeago.js
-
-**Carousel / Content Slider**
-
-- Swipe - The most accurate touch slider:
-<br/>https://github.com/thebird/Swipe
 
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
