@@ -132,6 +132,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Timer.js - Simple and lightweight library without any dependencies to create and manage timers:
 <br/>https://github.com/husa/timer.js
 
+- timeago.js - Format datetime with *** time ago statement:
+<br/>https://github.com/hustcc/timeago.js
+
 **Carousel / Content Slider**
 
 - Swipe - The most accurate touch slider:
