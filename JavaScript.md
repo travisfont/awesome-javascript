@@ -2,11 +2,7 @@
 
 As is, native JavaScript! Libaries that don't require any framework dependencies.
 
-- cookies.js - Interactive and easy cookies from your browser:
-<br/>https://github.com/franciscop/cookies.js
-
-- strman - String manipulation library:
-<br/>https://github.com/dleitee/strman
+**Notifications / Modals / Popups**
 
 - sweetalert - Alert/notication modals:
 <br/>https://github.com/t4t5/sweetalert
@@ -17,12 +13,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - notie.js - A clean and simple notification plugin (alert/growl style):
 <br/>https://jaredreich.com/projects/notie.js
 
-- cut-html-string:
-<br/>https://code.google.com/p/cut-html-string
-<br/>(Cut the html string by keeping the html tags as it is.)
-
-- clipboard.js - Modern copy to clipboar (no Flash):
-<br/>https://github.com/zenorocha/clipboard.js
+**DOM**
 
 - NodeList.js - DOM implementation library:
 <br/>https://github.com/eorroe/NodeList.js
@@ -30,21 +21,24 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - DOM99 - Simple HTML manipulation for the modern web:
 <br/>https://github.com/GrosSacASac/DOM99
 
-- gmaps.js - The easiest way to use Google Map:
-<br/>https://github.com/hpneo/gmaps
 
-- $.geocomplete() - Geocoding and Places Autocomplete Plugin:
-<br/>https://github.com/ubilabs/geocomplete
+**Text**
+
+- strman - String manipulation library:
+<br/>https://github.com/dleitee/strman
+
+- cut-html-string:
+<br/>https://code.google.com/p/cut-html-string
+<br/>(Cut the html string by keeping the html tags as it is.)
+
+- clipboard.js - Modern copy to clipboar (no Flash):
+<br/>https://github.com/zenorocha/clipboard.js
 
 - Quill - Coss browser rich text editor with an API:
 <br/>https://github.com/quilljs/quill
 
-- Sortable - Minimalist library for reorderable drag-and-drop lists:
-<br/>https://github.com/RubaXa/Sortable
-
 - zxcvbn - Realistic password strength estimation:
 <br/>https://github.com/dropbox/zxcvbn
-
 
 **Formatting**
 
@@ -92,8 +86,11 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Cropper.js - A simple image cropping:
 <br/>https://github.com/fengyuanchen/cropperjs
 
-- hu.js - JavaScript library for SVG:
+- hu.js - A library for SVG:
 <br/>https://github.com/Canop/hu.js
+
+- GraphicsJS - A lightweight graphics library with the intuitive API, based on SVG/VML:
+<br/>https://github.com/anychart/graphicsjs
 
 - Viewer.js - An image viewer:
 <br/>https://github.com/fengyuanchen/viewerjs
@@ -134,6 +131,19 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Swipe - The most accurate touch slider:
 <br/>https://github.com/thebird/Swipe
 
+- Shepherd - Guide your users through a tour of your app:
+<br/>https://github.com/HubSpot/shepherd
+
+
+**Maps / Location**
+
+- gmaps.js - The easiest way to use Google Map:
+<br/>https://github.com/hpneo/gmaps
+
+- $.geocomplete() - Geocoding and Places Autocomplete Plugin:
+<br/>https://github.com/ubilabs/geocomplete
+
+
 **Time / Date**
 - flatpickr - Lightweight & powerful datetimepickers:
 <br/>https://github.com/chmln/flatpickr
@@ -146,6 +156,14 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - timeago.js - Format datetime with *** time ago statement:
 <br/>https://github.com/hustcc/timeago.js
+
+**Misc**
+
+- cookies.js - Interactive and easy cookies from your browser:
+<br/>https://github.com/franciscop/cookies.js
+
+- Sortable - Minimalist library for reorderable drag-and-drop lists:
+<br/>https://github.com/RubaXa/Sortable
 
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
