@@ -50,8 +50,11 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - validate.js - Declarative validation:
 <br/>https://github.com/ansman/validate.js
 
-- Feature.js - A fast, simple and lightweight browser feature detection library in 1kb:
+- Feature.js - A simple JavaScript validation library that doesn't interfere:
 <br/>https://github.com/viljamis/feature.js
+
+- ApproveJs - A fast, simple and lightweight browser feature detection library in 1kb:
+<br/>https://github.com/CharlGottschalk/approvejs
 
 **Compression (Minification) / Encryption**
 - HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
