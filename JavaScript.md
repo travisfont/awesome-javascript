@@ -182,3 +182,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - Videox5js - Web video player for HTML5 (with customizable theme):
 <br/>https://github.com/brendonco/videox5js
+
+- hls.js - Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback:
+<br/>https://github.com/dailymotion/hls.js
+
+- flv.js - HTML5 FLV Player:
+<br/>https://github.com/Bilibili/flv.js
