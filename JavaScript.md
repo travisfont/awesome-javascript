@@ -40,6 +40,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - zxcvbn - Realistic password strength estimation:
 <br/>https://github.com/dropbox/zxcvbn
 
+- Tesseract.js - Gets words in almost any language out of images:
+<br/>https://github.com/naptha/tesseract.js
+
 **Formatting**
 
 - cleave.js - Formatting input text content when you are typing:
@@ -164,6 +167,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - cookies.js - Interactive and easy cookies from your browser:
 <br/>https://github.com/franciscop/cookies.js
+
+- window.fetch polyfill - Easier way to make web requests and handle responses than using an XMLHttpRequest:
+<br/>https://github.com/github/fetch
 
 - Sortable - Minimalist library for reorderable drag-and-drop lists:
 <br/>https://github.com/RubaXa/Sortable
