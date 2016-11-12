@@ -80,6 +80,9 @@
 
 **Layout / Grid / Sorting**
 
+- Intercooler.js -AJAX with attributes - as easy as anchor tags:
+<br/>https://github.com/LeadDyno/intercooler-js
+
 - jsGrid - Lightweight Grid:
 <br/>https://github.com/tabalinas/jsgrid
 
