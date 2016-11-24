@@ -154,6 +154,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - flatpickr - Lightweight & powerful datetimepickers:
 <br/>https://github.com/chmln/flatpickr
 
+- Pikaday - A refreshing Datepicker — lightweight, no dependencies, modular CSS:
+<br/>https://github.com/dbushell/Pikaday
+
 - millisecond - Convert time strings to milliseconds:
 <br/>https://github.com/unshiftio/millisecond
 
