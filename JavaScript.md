@@ -13,6 +13,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - notie.js - A clean and simple notification plugin (alert/growl style):
 <br/>https://jaredreich.com/projects/notie.js
 
+- iziToast - Elegant, responsive, flexible and lightweight notification plugin with no dependencies:
+<br/>https://github.com/dolce/iziToast
+
 **DOM**
 
 - NodeList.js - DOM implementation library:
@@ -47,6 +50,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - cleave.js - Formatting input text content when you are typing:
 <br/>https://github.com/nosir/cleave.js
+
+- Card - A better credit card form in one line of code:
+<br/>https://github.com/jessepollak/card/
 
 **Validation / Detection**
 
@@ -148,6 +154,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - $.geocomplete() - Geocoding and Places Autocomplete Plugin:
 <br/>https://github.com/ubilabs/geocomplete
+
+- Rinvex Country - Retrieving country details with flexibility:
+<br/>https://github.com/rinvex/country/
 
 
 **Time / Date**
