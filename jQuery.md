@@ -80,6 +80,10 @@
 
 **Layout / Grid / Sorting**
 
+- jQuery EasyUI - Collection of user-interface plugin based on jQuery:
+<br/>https://github.com/waylau/jquery-easyui
+<br/>http://www.jeasyui.com
+
 - Intercooler.js -AJAX with attributes - as easy as anchor tags:
 <br/>https://github.com/LeadDyno/intercooler-js
 
