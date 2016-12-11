@@ -19,6 +19,18 @@
 - jQuery GridManager - A way of building rows and grids with built in editable regions:
 <br/>https://github.com/neokoenig/jQuery-gridmanager
 
+- TableExport - The simple, easy-to-implement plugin to export HTML tables to xlsx, xls, csv, and txt files:
+<br/>https://github.com/clarketm/TableExport
+
+- LazeeMenu - turns a nested unordered list of links into a vertical multi-level navigation menu:
+<br/>https://github.com/lazee/lazeemenu
+
+- Animsition - CSS animated page transitions:
+<br/>https://github.com/blivesta/animsition
+
+- Slidebars - Off-Canvas Menus and Sidebars:
+<br/>https://github.com/adchsm/Slidebars
+
 **Images**
 
 - Responsify.js - Truly responsive images - keeping the focused objects/area in view:
@@ -72,6 +84,14 @@
 
 - jQuery Form Validate - An advance HTML 5 form validator:
 <br/>https://github.com/vmichnowicz/jquery.formvalidate
+
+**Autocomplete**
+
+- jquery.email-autocomplete.js - Suggests and autocompletes the domain in email fields:
+<br/>https://github.com/10w042/email-autocomplete
+
+- Inputmask - Inputmask predefined format dates, numerics, phone numbers:
+<br/>https://github.com/RobinHerbots/Inputmask
 
 **Notifications**
 
