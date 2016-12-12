@@ -160,6 +160,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 
 **Time / Date**
+- Moment.js - Parse, validate, manipulate, and display dates:
+<br/>https://github.com/moment/moment
+
+- date-fns - date utility library:
+<br/>https://github.com/date-fns/date-fns
+
 - flatpickr - Lightweight & powerful datetimepickers:
 <br/>https://github.com/chmln/flatpickr
 
