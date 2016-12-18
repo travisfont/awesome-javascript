@@ -192,6 +192,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Sortable - Minimalist library for reorderable drag-and-drop lists:
 <br/>https://github.com/RubaXa/Sortable
 
+- safer-stringify - Like JSON.stringify, but escapes forward slashes and line terminators:
+<br/>https://github.com/mapbox/safer-stringify
+
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
 <br/>https://github.com/mohayonao/timbre.js
