@@ -127,7 +127,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Burger - The minimal hamburger menu with fullscreen navigation:
 <br/>https://github.com/mblode/burger
 
-**Graphs**
+**Charts / Graphs**
+
+- parliament-svg - Generate parliament charts as virtual-dom SVG:
+<br/>https://github.com/juliuste/parliament-svg
+
+**Progress Bars**
 
 - ProgressBar.js - Responsive and slick progress bars:
 <br/>https://github.com/kimmobrunfeldt/progressbar.js
