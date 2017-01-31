@@ -1,7 +1,10 @@
 **Images / Graphics**
 
+- Jimp - Image processing library:
+<br/>https://github.com/oliver-moran/jimp
+
 - Sharp - Resizing JPEG, PNG, WebP and TIFF imagessharp:
-https://github.com/lovell/sharp
+<br/>https://github.com/lovell/sharp
 
 **Databases**
 
