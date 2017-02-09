@@ -186,20 +186,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - timeago.js - Format datetime with *** time ago statement:
 <br/>https://github.com/hustcc/timeago.js
 
-**Misc**
-
-- cookies.js - Interactive and easy cookies from your browser:
-<br/>https://github.com/franciscop/cookies.js
-
-- window.fetch polyfill - Easier way to make web requests and handle responses than using an XMLHttpRequest:
-<br/>https://github.com/github/fetch
-
-- Sortable - Minimalist library for reorderable drag-and-drop lists:
-<br/>https://github.com/RubaXa/Sortable
-
-- safer-stringify - Like JSON.stringify, but escapes forward slashes and line terminators:
-<br/>https://github.com/mapbox/safer-stringify
-
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
 <br/>https://github.com/mohayonao/timbre.js
@@ -220,3 +206,20 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - flv.js - HTML5 FLV Player:
 <br/>https://github.com/Bilibili/flv.js
+
+**Misc**
+
+- history.js - HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers:
+<br/>https://github.com/browserstate/history.js
+
+- cookies.js - Interactive and easy cookies from your browser:
+<br/>https://github.com/franciscop/cookies.js
+
+- window.fetch polyfill - Easier way to make web requests and handle responses than using an XMLHttpRequest:
+<br/>https://github.com/github/fetch
+
+- Sortable - Minimalist library for reorderable drag-and-drop lists:
+<br/>https://github.com/RubaXa/Sortable
+
+- safer-stringify - Like JSON.stringify, but escapes forward slashes and line terminators:
+<br/>https://github.com/mapbox/safer-stringify
