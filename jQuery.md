@@ -113,6 +113,9 @@
 - Isotope - Filter & sort objects (list items, divs, etc):
 <br/>https://github.com/metafizzy/isotope
 
+- addel - Dynamic addition and deletion of HTML elements:
+<br/>https://github.com/legshooter/addel
+
 **Carousel / Content Slider**
 
 - slick - The last carousel you'll ever need:
