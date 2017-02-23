@@ -218,6 +218,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - window.fetch polyfill - Easier way to make web requests and handle responses than using an XMLHttpRequest:
 <br/>https://github.com/github/fetch
 
+- browser-report - Report browser settings in a JavaScript object:
+<br/>https://github.com/keithws/browser-report
+
+- Platform.js - A platform detection library that works on nearly all JavaScript platforms:
+<br/>https://github.com/bestiejs/platform.js/
+
 - Sortable - Minimalist library for reorderable drag-and-drop lists:
 <br/>https://github.com/RubaXa/Sortable
 
