@@ -229,3 +229,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - safer-stringify - Like JSON.stringify, but escapes forward slashes and line terminators:
 <br/>https://github.com/mapbox/safer-stringify
+
+- store.js - Cross-browser storage for all use cases (Used across the web):
+<br/>https://github.com/marcuswestin/store.js
