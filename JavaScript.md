@@ -16,6 +16,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - iziToast - Elegant, responsive, flexible and lightweight notification plugin with no dependencies:
 <br/>https://github.com/dolce/iziToast
 
+
 **DOM**
 
 - NodeList.js - DOM implementation library:
@@ -46,6 +47,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Tesseract.js - Gets words in almost any language out of images:
 <br/>https://github.com/naptha/tesseract.js
 
+
 **Formatting**
 
 - cleave.js - Formatting input text content when you are typing:
@@ -53,6 +55,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - Card - A better credit card form in one line of code:
 <br/>https://github.com/jessepollak/card/
+
 
 **Validation / Detection**
 
@@ -64,6 +67,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - ApproveJs - A fast, simple and lightweight browser feature detection library in 1kb:
 <br/>https://github.com/CharlGottschalk/approvejs
+
 
 **Compression (Minification) / Encryption**
 - HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
@@ -77,6 +81,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - js-deflate - Deflate & Inflate (RFC 1951) for JavaScript:
 <br/>https://github.com/dankogai/js-deflate
+
 
 **Databases**
 
@@ -116,21 +121,18 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Morphr - Tiny and lightweight javascript class for morphing (animating) objects:
 <br/>https://github.com/goessner/morphr
 
-**UI (Layout / Grids / Tables)**
 
-- Highlight.js - a syntax highlighter (supports most common styles and languages):
-<br/>https://github.com/isagalaev/highlight.js
+**Graphics / Rendering / 3D**
 
-- Split.js - A lightweight, unopinionated utility for creating adjustable split views or panes:
-<br/>https://github.com/nathancahill/Split.js
+- verlet-js - Simple Verlet physics engine:
+<br/>https://github.com/subprotocol/verlet-js
 
-- Burger - The minimal hamburger menu with fullscreen navigation:
-<br/>https://github.com/mblode/burger
 
 **Charts / Graphs**
 
 - parliament-svg - Generate parliament charts as virtual-dom SVG:
 <br/>https://github.com/juliuste/parliament-svg
+
 
 **Progress Bars**
 
@@ -143,6 +145,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - nanobar - Very lightweight progress bar:
 <br/>https://github.com/jacoborus/nanobar
 
+
 **Carousel / Content Slider**
 
 - Swipe - The most accurate touch slider:
@@ -150,6 +153,18 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - Shepherd - Guide your users through a tour of your app:
 <br/>https://github.com/HubSpot/shepherd
+
+
+**UI (Layout / Grids / Tables)**
+
+- Highlight.js - a syntax highlighter (supports most common styles and languages):
+<br/>https://github.com/isagalaev/highlight.js
+
+- Split.js - A lightweight, unopinionated utility for creating adjustable split views or panes:
+<br/>https://github.com/nathancahill/Split.js
+
+- Burger - The minimal hamburger menu with fullscreen navigation:
+<br/>https://github.com/mblode/burger
 
 
 **Maps / Location**
@@ -183,8 +198,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Timer.js - Simple and lightweight library without any dependencies to create and manage timers:
 <br/>https://github.com/husa/timer.js
 
-- timeago.js - Format datetime with *** time ago statement:
+- timeago.js - Format datetime with 'time ago' statement:
 <br/>https://github.com/hustcc/timeago.js
+
 
 **Sound**
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
@@ -196,6 +212,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - MidiWriterJS - Generating expressive multi-track MIDI files in browser and Node:
 <br/>https://github.com/grimmdude/MidiWriterJS
 
+
 **Video**
 
 - Videox5js - Web video player for HTML5 (with customizable theme):
@@ -206,6 +223,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - flv.js - HTML5 FLV Player:
 <br/>https://github.com/Bilibili/flv.js
+
 
 **Misc**
 
