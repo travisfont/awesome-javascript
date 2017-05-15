@@ -113,6 +113,9 @@
 - Isotope - Filter & sort objects (list items, divs, etc):
 <br/>https://github.com/metafizzy/isotope
 
+- jqTree - Tree widget for jQuery:
+<br/>https://github.com/mbraak/jqTree
+
 - addel - Dynamic addition and deletion of HTML elements:
 <br/>https://github.com/legshooter/addel
 
