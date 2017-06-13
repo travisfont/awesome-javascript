@@ -2,6 +2,7 @@
 
 As is, native JavaScript! Libaries that don't require any framework dependencies.
 
+
 **Notifications / Modals / Popups**
 
 - sweetalert - Alert/notication modals:
@@ -16,6 +17,10 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - iziToast - Elegant, responsive, flexible and lightweight notification plugin with no dependencies:
 <br/>https://github.com/dolce/iziToast
 
+- Popper.js - Library used to position poppers in web applications:
+<br/>https://github.com/FezVrasta/popper.js
+<br/>https://popper.js.org
+
 
 **DOM**
 
@@ -24,6 +29,13 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - DOM99 - Simple HTML manipulation for the modern web:
 <br/>https://github.com/GrosSacASac/DOM99
+
+- Descartes - Write CSS in JavaScript
+<br/>https://github.com/jonhmchan/descartes
+<br/>https://descartes.io/
+
+- CSSX - Generate and/or apply CSS with JavaScript
+<br/>https://github.com/krasimir/cssx
 
 
 **Text**
@@ -35,7 +47,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 <br/>https://code.google.com/p/cut-html-string
 <br/>(Cut the html string by keeping the html tags as it is.)
 
-- clipboard.js - Modern copy to clipboar (no Flash):
+- clipboard.js - Modern copy to clipboard (no Flash):
 <br/>https://github.com/zenorocha/clipboard.js
 
 - Quill - Coss browser rich text editor with an API:
@@ -46,6 +58,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - Tesseract.js - Gets words in almost any language out of images:
 <br/>https://github.com/naptha/tesseract.js
+
+- safer-stringify - Like JSON.stringify, but escapes forward slashes and line terminators:
+<br/>https://github.com/mapbox/safer-stringify
+
+- JSanity - Secure-by-default, performance, cross-browser client-side HTML sanitization library
+<br/>https://github.com/Microsoft/JSanity
 
 
 **Formatting**
@@ -68,8 +86,15 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - ApproveJs - A fast, simple and lightweight browser feature detection library in 1kb:
 <br/>https://github.com/CharlGottschalk/approvejs
 
+- FluentValidationJS - Fluent validation library:
+<br/>https://github.com/rjperes/FluentValidationJS
+
+- valid.js - Library for data validation:
+<br/>https://github.com/dleitee/valid.js
+
 
 **Compression (Minification) / Encryption**
+
 - HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
 <br/>https://github.com/kangax/html-minifier
 
@@ -121,11 +146,27 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Morphr - Tiny and lightweight javascript class for morphing (animating) objects:
 <br/>https://github.com/goessner/morphr
 
+- PureSlider - Lightweight, no-dependency image slider library:
+<br/>https://github.com/djyde/PureSlider
+
+- smartcrop.js - Content aware image cropping:
+https://github.com/jwagner/smartcrop.js
+
+- bwip-js - Barcode Writer in Pure JavaScript:
+<br/>https://github.com/metafloor/bwip-js
+
 
 **Graphics / Rendering / 3D**
 
+- Rune.js - Programming graphic design systems with SVG:
+<br/>https://github.com/runemadsen/rune.js
+
 - verlet-js - Simple Verlet physics engine:
 <br/>https://github.com/subprotocol/verlet-js
+
+- Sigma.JS - Graph drawing:
+<br/>https://github.com/jacomyal/sigma.js
+<br/>http://sigmajs.org
 
 
 **Charts / Graphs**
@@ -166,6 +207,27 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Burger - The minimal hamburger menu with fullscreen navigation:
 <br/>https://github.com/mblode/burger
 
+- Split.js - 2kb unopinionated utility for resizeable split views:
+<br/>https://github.com/nathancahill/Split.js
+
+- Reveal menu UI - Simple agnostic swipeable menu for touch devices:
+<br/>https://github.com/code0wl/swipeable-menu
+
+- Inspire Tree - Javascript UI Tree component:
+<br/>https://github.com/helion3/inspire-tree
+
+- Sortable - Reorderable drag-and-drop lists:
+<br/>https://github.com/RubaXa/Sortable
+<br/>http://rubaxa.github.io/Sortable
+
+- Pressure.js - Library for handling Force Touch, 3D Touch, and Pointer Pressure:
+<br/>https://github.com/stuyam/pressure
+<br/>https://pressurejs.com
+
+- glio.js - Exit popup easely - Detects if the mouse of a user leaves the viewport borders of a website:
+<br/>https://github.com/luisvinicius167/gliojs
+<br/>http://luisvinicius167.github.io/gliojs
+
 
 **Maps / Location**
 
@@ -180,6 +242,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 
 **Time / Date**
+
 - Moment.js - Parse, validate, manipulate, and display dates:
 <br/>https://github.com/moment/moment
 
@@ -201,8 +264,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - timeago.js - Format datetime with 'time ago' statement:
 <br/>https://github.com/hustcc/timeago.js
 
+- Stop.js - Promise based setTimeout and setImmediate for the modern browsers and node:
+<br/>https://github.com/rwu823/stop.js
+
 
 **Sound**
+
 - timbre.js - Functional processing and synthesizing audio in your web apps with modern JavaScript:
 <br/>https://github.com/mohayonao/timbre.js
 
@@ -215,6 +282,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 **Video**
 
+- Video.js - Open source HTML5 & Flash video player
+<br/>https://github.com/videojs/video.js
+
 - Videox5js - Web video player for HTML5 (with customizable theme):
 <br/>https://github.com/brendonco/videox5js
 
@@ -223,6 +293,10 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - flv.js - HTML5 FLV Player:
 <br/>https://github.com/Bilibili/flv.js
+
+- canvid.js - Tiny library for playing video on canvas elements:
+<br/>https://github.com/gka/canvid
+<br/>http://gka.github.io/canvid
 
 
 **Misc**
@@ -242,11 +316,18 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Platform.js - A platform detection library that works on nearly all JavaScript platforms:
 <br/>https://github.com/bestiejs/platform.js/
 
-- Sortable - Minimalist library for reorderable drag-and-drop lists:
-<br/>https://github.com/RubaXa/Sortable
-
-- safer-stringify - Like JSON.stringify, but escapes forward slashes and line terminators:
-<br/>https://github.com/mapbox/safer-stringify
 
 - store.js - Cross-browser storage for all use cases (Used across the web):
 <br/>https://github.com/marcuswestin/store.js
+
+- pajax - Promise based AJAX library:
+<br/>https://github.com/memorial-park/pajax
+
+- touch-action - Disable 300ms delay on mobile using CSS touch-action or asynchronously download FastClick as polyfill:
+<br/>https://github.com/alekseykulikov/touch-action
+
+- CLog.js - Library to color and organize your console.log in Google Chrome:
+<br/>https://github.com/CVarisco/CLog.js
+
+- GradStop.js - Micro library to generate gradient color stops:
+<br/>https://github.com/Siddharth11/gradStop.js
