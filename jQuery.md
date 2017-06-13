@@ -20,16 +20,13 @@
 - Slidebars - Off-Canvas Menus and Sidebars:
 <br/>https://github.com/adchsm/Slidebars
 
-protip
-jQuery tooltip Plugin
-https://github.com/DoclerLabs/Protip
-http://protip.rocks
+- protip - jQuery tooltip Plugin:
+<br/>https://github.com/DoclerLabs/Protip
+<br/http://protip.rocks
 
-
-Tabslet
-jQuery plugin for tabs, lightweight, & easy to use
-https://github.com/vdw/Tabslet
-http://vdw.github.io/Tabslet/
+- Tabslet - jQuery plugin for tabs, lightweight, & easy to use:
+<br/>https://github.com/vdw/Tabslet
+<br/>http://vdw.github.io/Tabslet/
 
 **Images**
 
