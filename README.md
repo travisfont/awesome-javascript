@@ -7,6 +7,7 @@ The goal of this list isn't to list the most possible amount of usage plugins/li
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) & [awesome-phalcon](https://github.com/sergeyklay/awesome-phalcon). And without forgetting the complete [awesome](https://github.com/sindresorhus/awesome) list!
 
 - [AngularJS 1.x](AngularJS.md)
+- [Angular 2+ (NGX)](Angular.md)
 - [d3.js](d3.js.md)
 - [JavaScript (native)](JavaScript.md)
 - [jQuery](jQuery.md)
