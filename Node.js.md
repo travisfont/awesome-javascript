@@ -1,3 +1,8 @@
+**Time / Date**
+
+- Instadate - Minimal high performance date library for Node.js & Browser:
+<br/>https://github.com/teamweek/instadate
+
 **Images / Graphics**
 
 - Jimp - Image processing library:
