@@ -1,8 +1,3 @@
-- Bootstrap Multiselect:
-<br/>https://github.com/davidstutz/bootstrap-multiselect
-
-- Bootstrap Tagsinput:
-<br/>https://github.com/timschlechter/bootstrap-tagsinput
 
 - chosen - Library for making long, unwieldy select boxes more friendly:
 <br/>https://github.com/harvesthq/chosen
@@ -12,12 +7,6 @@
 
 - jCalculator - Plugin for calculator inputs:
 <br/>https://github.com/balajmarius/jCalculator
-
-- jquery-smooth-scroll - Automatically make same-page links scroll smoothly:
-<br/>https://github.com/kswedberg/jquery-smooth-scroll
-
-- jQuery GridManager - A way of building rows and grids with built in editable regions:
-<br/>https://github.com/neokoenig/jQuery-gridmanager
 
 - TableExport - The simple, easy-to-implement plugin to export HTML tables to xlsx, xls, csv, and txt files:
 <br/>https://github.com/clarketm/TableExport
@@ -30,6 +19,17 @@
 
 - Slidebars - Off-Canvas Menus and Sidebars:
 <br/>https://github.com/adchsm/Slidebars
+
+protip
+jQuery tooltip Plugin
+https://github.com/DoclerLabs/Protip
+http://protip.rocks
+
+
+Tabslet
+jQuery plugin for tabs, lightweight, & easy to use
+https://github.com/vdw/Tabslet
+http://vdw.github.io/Tabslet/
 
 **Images**
 
@@ -45,16 +45,50 @@
 - Cropper - A simple jQuery image cropping plugin:
 <br/>https://github.com/fengyuanchen/cropper
 
+- TwentyTwenty - jQuery Plugin to Compare Images:
+<br/>https://github.com/zurb/twentytwenty
+<br/>http://zurb.com/playground/twentytwenty
+
+- jQuery easypin - Pinning clickable messages/notes to images:
+<br/>https://github.com/atayahmet/jquery.easypin
+
 **Time / Date**
 
 - DateTime Picker:
 <br/>https://github.com/CuriousSolutions/DateTimePicker
+
+- Datedropper3 - Smallest and powerful jQuery UI datepicker:
+<br/>https://github.com/felicegattuso/Datedropper3/
 
 - Timeout-Dialog.js - Displays a timeout Dialog after a certain period of time:
 <br/>https://github.com/rigoneri/timeout-dialog.js
 
 - CLNDR.js -  jQuery calendar plugin:
 <br/>https://github.com/kylestetz/CLNDR
+
+- bootstrap-material-datetimepicker - Material DateTimePicker:
+<br/>https://github.com/T00rk/bootstrap-material-datetimepicker
+<br/>http://t00rk.github.io/bootstrap-material-datetimepicker
+
+- jQuery Timepicker - Enhance standard form input fields helping users to select (or type) time:
+<br/>https://github.com/wvega/timepicker
+<br/>http://timepicker.co
+
+- Wickedpicker - Simple jQuery timepicker:
+<br/>https://github.com/ericjgagnon/wickedpicker
+<br/>http://ericjgagnon.github.io/wickedpicker/
+
+- timeago - Easy to support automatically updating fuzzy timestamps:
+<br/>https://github.com/rmm5t/jquery-timeago
+<br/>http://timeago.yarp.com/
+
+- jquery-timepicker - Timepicker plugin for jQuery inspired by Google Calendar:
+<br/>https://github.com/jonthornton/jquery-timepicker
+<br/>http://jonthornton.github.io/jquery-timepicker/
+
+- TimePicki - Time picker jquery plugin:
+<br/>https://github.com/senthilraj/TimePicki
+<br/>http://senthilraj.github.io/TimePicki/
 
 **Validation**
 
@@ -85,6 +119,22 @@
 - jQuery Form Validate - An advance HTML 5 form validator:
 <br/>https://github.com/vmichnowicz/jquery.formvalidate
 
+**Forms**
+
+- Bootstrap Multiselect:
+<br/>https://github.com/davidstutz/bootstrap-multiselect
+
+- Bootstrap Tagsinput:
+<br/>https://github.com/timschlechter/bootstrap-tagsinput
+
+- Select2  - Replacement for select boxex - searching, remote data sets, & pagination
+<br/>https://github.com/select2/select2
+<br/>https://select2.github.io/
+
+- Tabular Input - Lightweight jQuery plugin for building a tabular input method
+<br/>https://github.com/ncrafts/tabular-input
+<br/>http://ncrafts.github.io/tabular-input/
+
 **Autocomplete**
 
 - jquery.email-autocomplete.js - Suggests and autocompletes the domain in email fields:
@@ -107,6 +157,9 @@
 - Intercooler.js -AJAX with attributes - as easy as anchor tags:
 <br/>https://github.com/LeadDyno/intercooler-js
 
+- jQuery GridManager - A way of building rows and grids with built in editable regions:
+<br/>https://github.com/neokoenig/jQuery-gridmanager
+
 - jsGrid - Lightweight Grid:
 <br/>https://github.com/tabalinas/jsgrid
 
@@ -116,8 +169,23 @@
 - jqTree - Tree widget for jQuery:
 <br/>https://github.com/mbraak/jqTree
 
+- almightree - Make large nested lists easier to navigate:
+<br/>https://github.com/blinry/almightree
+<br/>http://morr.cc/almightree/
+
 - addel - Dynamic addition and deletion of HTML elements:
 <br/>https://github.com/legshooter/addel
+
+- fullPage.js - Create full screen pages fast and simple:
+<br/>https://github.com/alvarotrigo/fullPage.js
+<br/>https://alvarotrigo.com/fullPage
+
+- pagePiling.js - Create a scrolling pile of sections:
+<br/>https://github.com/alvarotrigo/pagePiling.js
+<br/>https://alvarotrigo.com/pagePiling/examples/horizontalScroll.html
+
+- jquery-smooth-scroll - Automatically make same-page links scroll smoothly:
+<br/>https://github.com/kswedberg/jquery-smooth-scroll
 
 **Carousel / Content Slider**
 
