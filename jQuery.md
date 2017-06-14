@@ -87,6 +87,16 @@
 <br/>https://github.com/senthilraj/TimePicki
 <br/>http://senthilraj.github.io/TimePicki/
 
+**Text**
+
+mark.js - Keyword / text highlighter:
+<br/>https://github.com/julmot/mark.js
+<br/>https://markjs.io
+
+jquery.highlight.js - jQuery Highlight Plugin:
+<br/>https://github.com/bartaz/sandbox.js/blob/master/jquery.highlight.js
+<br/>http://bartaz.github.io/sandbox.js/jquery.highlight.html
+
 **Validation**
 
 - jQuery.bank - A library for building bank account forms, formatting and validating inputs.:
