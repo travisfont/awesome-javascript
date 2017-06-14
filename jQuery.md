@@ -89,11 +89,11 @@
 
 **Text**
 
-mark.js - Keyword / text highlighter:
+- mark.js - Keyword / text highlighter:
 <br/>https://github.com/julmot/mark.js
 <br/>https://markjs.io
 
-jquery.highlight.js - jQuery Highlight Plugin:
+- jquery.highlight.js - jQuery Highlight Plugin:
 <br/>https://github.com/bartaz/sandbox.js/blob/master/jquery.highlight.js
 <br/>http://bartaz.github.io/sandbox.js/jquery.highlight.html
 
