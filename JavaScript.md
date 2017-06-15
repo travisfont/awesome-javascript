@@ -89,8 +89,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - FluentValidationJS - Fluent validation library:
 <br/>https://github.com/rjperes/FluentValidationJS
 
+- revalidate - Elegant and composable validations:
+<br/>https://github.com/jfairbank/revalidate
+
 - valid.js - Library for data validation:
 <br/>https://github.com/dleitee/valid.js
+
 
 
 **Compression (Minification) / Encryption**
