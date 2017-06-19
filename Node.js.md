@@ -3,6 +3,7 @@
 - Instadate - Minimal high performance date library for Node.js & Browser:
 <br/>https://github.com/teamweek/instadate
 
+
 **Images / Graphics**
 
 - Jimp - Image processing library:
@@ -10,6 +11,7 @@
 
 - Sharp - Resizing JPEG, PNG, WebP and TIFF imagessharp:
 <br/>https://github.com/lovell/sharp
+
 
 **Databases**
 
@@ -19,7 +21,14 @@
 - Sequelize -  promise-based ORM for Postgres, MySQL, MariaDB, SQLite & MSSQL:
 <br/>https://github.com/sequelize/sequelize
 
+
 **CMS**
 
 - relax:
 <br/>https://github.com/relax/relax
+
+
+**Misc**
+
+- jxa - Access macOS JavaScript for Automation APIs directly in node:
+<br/>https://github.com/wtfaremyinitials/jxa
