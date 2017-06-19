@@ -303,6 +303,21 @@ https://github.com/jwagner/smartcrop.js
 <br/>http://gka.github.io/canvid
 
 
+**Binding** _(requires Node.js)_
+
+- nbind - Magical headers that make your C++ library accessible from JavaScript:
+<br/>https://github.com/charto/nbind
+
+- v8pp - Bind C++ functions and classes into V8 JavaScript engine:
+<br/>https://github.com/pmed/v8pp
+
+- nbind - Bind C++ functions and classes to JavaScript:
+<br/>https://github.com/kripken/emscripten
+<br/>https://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/embind.html
+
+- N₂O - Experimental binding framework for C++ to JavaScript using template and preprocessor metaprogramming techniques:
+<br/>https://github.com/agnat/n2o
+
 **Misc**
 
 - history.js - HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers:
