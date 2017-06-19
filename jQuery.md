@@ -1,4 +1,8 @@
 
+- Jquery-component - Create web components with jQuery:
+<br/>http://olivmonnier.github.io/jquery-component
+<br/>https://github.com/olivmonnier/jquery-component
+
 - chosen - Library for making long, unwieldy select boxes more friendly:
 <br/>https://github.com/harvesthq/chosen
 
