@@ -28,6 +28,9 @@
 <br/>https://github.com/DoclerLabs/Protip
 <br/http://protip.rocks
 
+- jQuery.mousetip - jQuery extension for creating tooltips that follow mouse movement and position:
+<br/>https://github.com/nathco/jQuery.mousetip
+
 - Tabslet - jQuery plugin for tabs, lightweight, & easy to use:
 <br/>https://github.com/vdw/Tabslet
 <br/>http://vdw.github.io/Tabslet/
@@ -197,6 +200,9 @@
 
 - jquery-smooth-scroll - Automatically make same-page links scroll smoothly:
 <br/>https://github.com/kswedberg/jquery-smooth-scroll
+
+- jQuery.sdFilterMe - Simple Query plugin to easily filter & order portfolio, articles, gallery, etc.:
+<br/>https://github.com/stevedavid/jquery-sdfilterme
 
 **Carousel / Content Slider**
 
