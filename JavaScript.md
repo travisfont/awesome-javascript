@@ -202,6 +202,10 @@ https://github.com/jwagner/smartcrop.js
 
 **UI (Layout / Grids / Tables)**
 
+- Golden Layout - The ultimate Javascript layout manager:
+<br/>https://github.com/deepstreamIO/golden-layout
+<br/>https://golden-layout.com/
+
 - Highlight.js - a syntax highlighter (supports most common styles and languages):
 <br/>https://github.com/isagalaev/highlight.js
 
@@ -329,12 +333,14 @@ https://github.com/jwagner/smartcrop.js
 - window.fetch polyfill - Easier way to make web requests and handle responses than using an XMLHttpRequest:
 <br/>https://github.com/github/fetch
 
+- collect.js - Convenient and dependency free wrapper for working with arrays and objects:
+<br/>https://github.com/ecrmnn/collect.js
+
 - browser-report - Report browser settings in a JavaScript object:
 <br/>https://github.com/keithws/browser-report
 
 - Platform.js - A platform detection library that works on nearly all JavaScript platforms:
 <br/>https://github.com/bestiejs/platform.js/
-
 
 - store.js - Cross-browser storage for all use cases (Used across the web):
 <br/>https://github.com/marcuswestin/store.js
