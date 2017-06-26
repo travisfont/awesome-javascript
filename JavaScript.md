@@ -117,6 +117,12 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - Lovefield - Relational database written in pure JavaScript:
 <br/>https://github.com/google/lovefield
 
+**Files / Uploaders / Local Storage (Caches)**
+
+- Fine Uploader - Multiple file upload plugin with image previews, drag and drop, progress bars:
+<br/>https://github.com/FineUploader/fine-uploader
+<br/>https://fineuploader.com
+
 
 **Images**
 
@@ -149,6 +155,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - Morphr - Tiny and lightweight javascript class for morphing (animating) objects:
 <br/>https://github.com/goessner/morphr
+
+- Aquarelle - Watercolor JavaScript effect:
+<br/>https://github.com/Ramotion/aquarelle
 
 - PureSlider - Lightweight, no-dependency image slider library:
 <br/>https://github.com/djyde/PureSlider
@@ -191,13 +200,17 @@ https://github.com/jwagner/smartcrop.js
 <br/>https://github.com/jacoborus/nanobar
 
 
-**Carousel / Content Slider**
+**Carousel / Content Slider / Touch Gestures**
 
 - Swipe - The most accurate touch slider:
 <br/>https://github.com/thebird/Swipe
 
 - Shepherd - Guide your users through a tour of your app:
 <br/>https://github.com/HubSpot/shepherd
+
+- ZingTouch - Touch gesture detection library
+<br/>https://zingchart.github.io/zingtouch
+<br/>https://github.com/zingchart/zingtouch
 
 
 **UI (Layout / Grids / Tables)**
@@ -263,6 +276,10 @@ https://github.com/jwagner/smartcrop.js
 - Pikaday - A refreshing Datepicker — lightweight, no dependencies, modular CSS:
 <br/>https://github.com/dbushell/Pikaday
 
+- DPicker - Framework-agnostic minimal date picker:
+<br/>https://github.com/soyuka/dpicker
+<br/>https://soyuka.github.io/dpicker
+
 - millisecond - Convert time strings to milliseconds:
 <br/>https://github.com/unshiftio/millisecond
 
@@ -286,6 +303,10 @@ https://github.com/jwagner/smartcrop.js
 
 - MidiWriterJS - Generating expressive multi-track MIDI files in browser and Node:
 <br/>https://github.com/grimmdude/MidiWriterJS
+
+- howler.js - Audio library for all platforms:
+<br/>https://github.com/goldfire/howler.js
+<br/>https://howlerjs.com
 
 
 **Video**
