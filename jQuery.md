@@ -35,6 +35,19 @@
 <br/>https://github.com/vdw/Tabslet
 <br/>http://vdw.github.io/Tabslet/
 
+**Files / Uploaders / Local Storage (Caches)**
+
+- Fileuploader - Beautiful and powerful HTML5 file uploading plugin:
+<br/>https://innostudio.de/fileuploader
+
+- jQuery File Upload - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio & video:
+<br/>https://github.com/blueimp/jQuery-File-Upload
+<br/>https://blueimp.github.io/jQuery-File-Upload/index.html
+
+- jQuery Upload File - Multiple file Uploads with progress bar:
+<br/>https://github.com/hayageek/jquery-upload-file
+<br/>http://hayageek.com/docs/jquery-upload-file.php
+
 **Images**
 
 - Responsify.js - Truly responsive images - keeping the focused objects/area in view:
@@ -141,11 +154,11 @@
 - Bootstrap Tagsinput:
 <br/>https://github.com/timschlechter/bootstrap-tagsinput
 
-- Select2  - Replacement for select boxex - searching, remote data sets, & pagination
+- Select2  - Replacement for select boxex - searching, remote data sets, & pagination:
 <br/>https://github.com/select2/select2
 <br/>https://select2.github.io/
 
-- Tabular Input - Lightweight jQuery plugin for building a tabular input method
+- Tabular Input - Lightweight jQuery plugin for building a tabular input method:
 <br/>https://github.com/ncrafts/tabular-input
 <br/>http://ncrafts.github.io/tabular-input/
 
@@ -157,7 +170,11 @@
 - Inputmask - Inputmask predefined format dates, numerics, phone numbers:
 <br/>https://github.com/RobinHerbots/Inputmask
 
-**Notifications**
+**Notifications / Modals / Popups**
+
+- iziModal - Elegant, responsive, flexible and lightweight modal plugin with jQuery:
+<br/>https://github.com/dolce/iziModal
+<br/>http://izimodal.marcelodolce.com
 
 - OhSnap!.js - A simple notification library designed to be used in mobile apps:
 <br/>https://github.com/justindomingue/ohSnap
@@ -204,7 +221,7 @@
 - jQuery.sdFilterMe - Simple Query plugin to easily filter & order portfolio, articles, gallery, etc.:
 <br/>https://github.com/stevedavid/jquery-sdfilterme
 
-**Carousel / Content Slider**
+**Carousel / Content Slider / Touch Gestures**
 
 - slick - The last carousel you'll ever need:
 <br/>https://github.com/kenwheeler/slick (kenwheeler.github.io/slick)
