@@ -5,6 +5,10 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 **Notifications / Modals / Popups**
 
+- Push.js - A compact, cross-browser solution for the JavaScript Notifications API:
+<br/>https://github.com/Nickersoft/push.js
+<br/>http://nickersoft.github.io/push.js
+
 - sweetalert - Alert/notication modals:
 <br/>https://github.com/t4t5/sweetalert
 
@@ -29,6 +33,10 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - DOM99 - Simple HTML manipulation for the modern web:
 <br/>https://github.com/GrosSacASac/DOM99
+
+- in-view.js - Get notified when a DOM element enters or exits the viewport:
+<br/>https://github.com/camwiegert/in-view
+<br/>https://camwiegert.github.io/in-view
 
 - Descartes - Write CSS in JavaScript
 <br/>https://github.com/jonhmchan/descartes
@@ -291,6 +299,9 @@ https://github.com/jwagner/smartcrop.js
 
 - Stop.js - Promise based setTimeout and setImmediate for the modern browsers and node:
 <br/>https://github.com/rwu823/stop.js
+
+- js-joda - Immutable date and time library:
+<br/>https://github.com/js-joda/js-joda
 
 
 **Sound**
