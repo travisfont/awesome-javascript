@@ -104,7 +104,6 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 <br/>https://github.com/dleitee/valid.js
 
 
-
 **Compression (Minification) / Encryption**
 
 - HTMLMinifier - A highly configurable, well-tested, JavaScript-based HTML minifier, with lint-like capabilities:
@@ -118,6 +117,18 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 
 - js-deflate - Deflate & Inflate (RFC 1951) for JavaScript:
 <br/>https://github.com/dankogai/js-deflate
+
+
+**History / Sessions / Cookies **
+
+- history.js - HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers:
+<br/>https://github.com/browserstate/history.js
+
+- cookies.js - Interactive and easy cookies from your browser:
+<br/>https://github.com/franciscop/cookies.js
+
+- lightcookie - Super lightweight cookie parser and serializer:
+<br/>https://github.com/ethanent/lightcookie
 
 
 **Databases**
@@ -354,13 +365,8 @@ https://github.com/jwagner/smartcrop.js
 - N₂O - Experimental binding framework for C++ to JavaScript using template and preprocessor metaprogramming techniques:
 <br/>https://github.com/agnat/n2o
 
+
 **Misc**
-
-- history.js - HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers:
-<br/>https://github.com/browserstate/history.js
-
-- cookies.js - Interactive and easy cookies from your browser:
-<br/>https://github.com/franciscop/cookies.js
 
 - window.fetch polyfill - Easier way to make web requests and handle responses than using an XMLHttpRequest:
 <br/>https://github.com/github/fetch
