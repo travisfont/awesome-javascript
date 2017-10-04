@@ -119,7 +119,7 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 <br/>https://github.com/dankogai/js-deflate
 
 
-**History / Sessions / Cookies **
+**History / Sessions / Cookies**
 
 - history.js - HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers:
 <br/>https://github.com/browserstate/history.js
@@ -394,3 +394,6 @@ https://github.com/jwagner/smartcrop.js
 
 - GradStop.js - Micro library to generate gradient color stops:
 <br/>https://github.com/Siddharth11/gradStop.js
+
+- Draggable - Drag & Drop library:
+<br/>https://github.com/tfont/awesome-javascript/blob/master/JavaScript.md
