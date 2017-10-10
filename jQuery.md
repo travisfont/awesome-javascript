@@ -105,7 +105,11 @@
 
 - TimePicki - Time picker jquery plugin:
 <br/>https://github.com/senthilraj/TimePicki
-<br/>http://senthilraj.github.io/TimePicki/
+<br/>http://senthilraj.github.io/TimePicki
+
+- The Final Countdown - A simple and HTML agnostic date countdown plugin:
+<br/>http://hilios.github.io/jQuery.countdown
+<br/>https://github.com/hilios/jQuery.countdown
 
 **Text**
 
