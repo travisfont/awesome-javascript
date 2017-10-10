@@ -118,6 +118,9 @@ As is, native JavaScript! Libaries that don't require any framework dependencies
 - js-deflate - Deflate & Inflate (RFC 1951) for JavaScript:
 <br/>https://github.com/dankogai/js-deflate
 
+- JSONC - JSON compressor and decompressor:
+<br/>https://github.com/tcorral/JSONC
+
 
 **History / Sessions / Cookies**
 
