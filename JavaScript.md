@@ -352,6 +352,10 @@ https://github.com/jwagner/smartcrop.js
 <br/>https://github.com/gka/canvid
 <br/>http://gka.github.io/canvid
 
+- videojs-story-view - Instagram-style video and image stories as a dependency-free custom element, with an optional Video.js plugin:
+<br/>https://github.com/hicay/videojs-story-view
+<br/>https://hicay.github.io/videojs-story-view
+
 
 **Binding** _(requires Node.js)_
 
